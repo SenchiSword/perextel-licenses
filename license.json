@@ -1,6 +1,6 @@
 {
   "licenses": [
     {"key": "ADIL-2025", "duration_days": 30, "activation_date": "2025-08-13"},
-    {"key": "DEF789-GHI101", "duration_days": 60, "activation_date": "2025-07-01"}
+    {"key": "DEF789-GHI101", "duration_days": 60, "activation_date": "2025-08-01"}
   ]
 }
