@@ -1,6 +1,34 @@
 {
-  "key": "ABC-123",
-  "duration_days": 10,
-  "activation_date": "13-08-2025",
-  "active": true
+  "licenses": [
+    {
+      "key": "ABC-123",
+      "duration_days": 30,
+      "activation_date": "",
+      "active": true
+    },
+    {
+      "key": "DEF-456", 
+      "duration_days": 1,
+      "activation_date": "2024-08-14",
+      "active": true
+    },
+    {
+      "key": "GHI-789",
+      "duration_days": 365,
+      "activation_date": "", 
+      "active": true
+    },
+    {
+      "key": "TRIAL-001",
+      "duration_days": 7,
+      "activation_date": "",
+      "active": true
+    },
+    {
+      "key": "PREMIUM-001",
+      "duration_days": 180,
+      "activation_date": "",
+      "active": false
+    }
+  ]
 }
