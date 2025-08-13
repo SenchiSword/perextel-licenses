@@ -4,7 +4,7 @@
       "key": "ABC-123",
       "duration_days": 30,
       "activation_date": "",
-      "active": true
+      "active": false
     },
     {
       "key": "DEF-456", 
@@ -16,13 +16,13 @@
       "key": "GHI-789",
       "duration_days": 365,
       "activation_date": "", 
-      "active": true
+      "active": false
     },
     {
       "key": "TRIAL-001",
-      "duration_days": 7,
+      "duration_days": 1,
       "activation_date": "",
-      "active": true
+      "active": false
     },
     {
       "key": "PREMIUM-001",
