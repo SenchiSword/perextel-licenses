@@ -2,5 +2,5 @@
   "key": "ABC-123",
   "duration_days": 10,
   "activation_date": "",
-  "active": true  // ← Nouvelle propriété pour désactiver une licence
+  "active": true
 }
