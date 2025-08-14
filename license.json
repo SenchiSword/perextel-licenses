@@ -1,10 +1,10 @@
 {
   "licenses": [
     {
-      "key": "Perextel-2025-001",
-      "duration_days": 1,
-      "activation_date": "2025-08-13",
-      "active": false
+      "key": "Perextel-2025-01",
+      "duration_days": 7,
+      "activation_date": "2025-08-14",
+      "active": true
     },
     {
       "key": "DEF-456", 
