@@ -3,7 +3,7 @@
     {
       "key": "XYZ987-KLM654-PQR321",
       "username": "Perextel",
-      "activation_date": "2025-08-27",
+      "activation_date": "2023-08-27",
       "duration_days": 365
     },
     {
@@ -21,7 +21,7 @@
     {
       "key": "QWE321-RTY654-UIO987",
       "username": "Sophie Dubois",
-      "activation_date": "2024-01-20",
+      "activation_date": "2023-01-20",
       "duration_days": 730
     },
     {
@@ -33,7 +33,7 @@
     {
       "key": "ZXC123-VBN456-DFG789",
       "username": "Camille Moreau",
-      "activation_date": "2024-05-01",
+      "activation_date": "2023-05-01",
       "duration_days": 365
     }
   ]
